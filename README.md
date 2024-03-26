@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Jericho Yu Llanes
-### Fullstack developer from the Philippines specialized in website and mobile development.
+# <p align="center"> 👋 Hi, I’m Jericho Yu Llanes</p>
+### <p align="center"> Fullstack developer from the Philippines specialized in website and mobile development.</p>
 - 🌱 I’m currently learning AI & ML
 - ⚙️ I can also develop embedded systems using Arduino Technology
 - 📫 How to reach me jericho.yu.llanes@gmail.com
@@ -13,16 +13,15 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ### Frameworks:
-
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+<a href="https://quasar.dev/"><img src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" height="50" alt="Quasar Logo"><a>
 <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" height="45" alt="Vue JS Logo"><a>
 <a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" height="47" alt="Inertia JS Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-<a href="https://quasar.dev/"><img src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" height="50" alt="Quasar Logo"><a>
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 
 ### Databases:
 <a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" alt="MySQL Logo"><a>
@@ -32,7 +31,7 @@
 <a href="https://firebase.google.com/docs/database"><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50" alt="Firebase Logo"><a>
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,photoshop,premiere,illustrator)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/en/software)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
