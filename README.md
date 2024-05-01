@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI & ML
 - ⚙️ I can also develop embedded systems using Arduino Technology
 - 📫 How to reach me jericho.yu.llanes@gmail.com
-- 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/JerichoYuLlanes-Portfolio/**_
+- 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
 
 ### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
