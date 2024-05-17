@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,c#)](https://skillicons.dev)
 
 ### Libraries and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
