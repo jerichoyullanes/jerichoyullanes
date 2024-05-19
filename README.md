@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
 
 ### Libraries and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
@@ -35,7 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/en/software)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-<a href=""><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="50" alt="Canva Logo"><a>
+<a href="https://www.canva.com/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="50" alt="Canva Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator)](https://www.adobe.com/)
 
 
