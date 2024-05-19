@@ -6,11 +6,15 @@
 - 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/default.asp)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
 ### Libraries and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
