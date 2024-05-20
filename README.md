@@ -1,5 +1,5 @@
 # <p align="center"> 👋 Hi, I’m Jericho Yu Llanes</p>
-### <p align="center"> Fullstack developer from the Philippines specialized in website and mobile development.</p>
+### <p align="center"> Aspiring Fullstack developer from the Philippines specialized in website and mobile development.</p>
 - 🌱 I’m currently learning AI & ML
 - ⚙️ I can also develop embedded systems using Arduino Technology
 - 📫 How to reach me jericho.yu.llanes@gmail.com
@@ -42,7 +42,7 @@
 <a href="https://www.canva.com/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="50" alt="Canva Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator)](https://www.adobe.com/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerichoyullanes04)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
