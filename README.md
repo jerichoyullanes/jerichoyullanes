@@ -1,10 +1,20 @@
 # <p align="center"> 👋 Hi, I’m Jericho Yu Llanes</p>
-### <p align="center"> Aspiring Fullstack developer from the Philippines specialized in website and mobile development.</p>
-- 🌱 I’m currently learning AI & ML
+### <p align="center"> Aspiring Fullstack Developer from the Philippines Specialized in Website and Mobile Development.</p>
+<!-- - 🌱 I’m currently learning AI & ML -->
 - ⚙️ I can also develop embedded systems using Arduino Technology
-- 📫 How to reach me jericho.yu.llanes@gmail.com
 - 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
 
+### How to reach me: 
+<a href="mailto: jericho.yu.llanes@gmail.com">
+<img src="https://img.shields.io/badge/-jericho.yu.llanes%40gmail.com-FFFF00?&style=for-the-badge&logo=gmail&logoColor=red" ></a>
+
+### Socials: 
+<a href="https://www.linkedin.com/in/jerichoyullanes/"><img src="https://img.shields.io/badge/jerichoyullanes-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.facebook.com/jericho.llanes.1/"><img src="https://img.shields.io/badge/jerichoyullanes-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://m.me/jericho.llanes.1"><img src="https://img.shields.io/badge/jerichoyullanes-8A2BE2?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a href="https://instagram.com/jeyl.04"><img src="https://img.shields.io/badge/jerichoyullanes-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+
+## My Techs and Skills:
 ### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
@@ -36,12 +46,18 @@
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/en/software)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 <a href="https://www.canva.com/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="50" alt="Canva Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator)](https://www.adobe.com/)
 
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerichoyullanes04)](https://github.com/anuraghazra/github-readme-stats)
 
 
