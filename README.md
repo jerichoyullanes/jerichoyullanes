@@ -30,7 +30,6 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 <a href="https://quasar.dev/"><img src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" height="50" alt="Quasar Logo"><a>
 <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" height="45" alt="Vue JS Logo"><a>
-<a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" height="47" alt="Inertia JS Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
@@ -57,9 +56,11 @@
 <a href="https://www.canva.com/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="50" alt="Canva Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator)](https://www.adobe.com/)
 
+<!-- -
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerichoyullanes04)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" height="47" alt="Inertia JS Logo"><a>
+--->
 
 <!---
 jerichoyullanes04/jerichoyullanes04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
