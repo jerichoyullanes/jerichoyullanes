@@ -10,9 +10,9 @@
 
 ### Socials: 
 <a href="https://www.linkedin.com/in/jerichoyullanes/"><img src="https://img.shields.io/badge/jerichoyullanes-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.facebook.com/jericho.llanes.1/"><img src="https://img.shields.io/badge/jerichoyullanes-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://m.me/jericho.llanes.1"><img src="https://img.shields.io/badge/jerichoyullanes-8A2BE2?style=for-the-badge&logo=messenger&logoColor=white"></a>
-<a href="https://instagram.com/jeyl.04"><img src="https://img.shields.io/badge/jerichoyullanes-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<a href="https://www.facebook.com/jericho.llanes.1/"><img src="https://img.shields.io/badge/jericho.llanes.1-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://m.me/jericho.llanes.1"><img src="https://img.shields.io/badge/jericho.llanes.1-8A2BE2?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a href="https://instagram.com/jeyl.04"><img src="https://img.shields.io/badge/jeyl.04-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
 
 ## My Techs and Skills:
 ### Programming Languages:
@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+<!-- [![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)-->
 
 ### Libraries and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
