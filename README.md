@@ -65,10 +65,13 @@
 
 ## My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jerichoyullanes04?theme=dark&font=Vibes)
-<!---
+
+## My Github Stats
+![Jericho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerichoyullanes04&show_icons=true&theme=radical)
+
 ## My Most Used Programming Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerichoyullanes04)](https://github.com/anuraghazra/github-readme-stats)
---->
+
 
 <!--- <a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" height="47" alt="Inertia JS Logo"><a> --->
 
