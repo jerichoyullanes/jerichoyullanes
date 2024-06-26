@@ -62,17 +62,16 @@
 <a href="https://www.canva.com/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" height="50" alt="Canva Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,illustrator)](https://www.adobe.com/)
 
-<!---
+
 ## My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jerichoyullanes04?theme=dark&font=Vibes)
 
 ## My Github Stats
-![Jericho's GitHub stats](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api?username=jerichoyullanes04&show_icons=true&theme=radical)
-
+![Jericho's GitHub stats](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api?username=jerichoyullanes04&show_icons=true&theme=dark)
 
 ## My Most Used Programming Language
-[![Top Langs](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api/top-langs/?username=jerichoyullanes04)](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/)
---->
+[![Top Langs](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api/top-langs/?username=jerichoyullanes04&layout=compact)](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/)
+
 
 <!--- <a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" height="47" alt="Inertia JS Logo"><a> --->
 
