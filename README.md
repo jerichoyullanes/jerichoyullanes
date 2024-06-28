@@ -28,6 +28,7 @@
 
 ### Libraries and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 <a href="https://quasar.dev/"><img src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" height="50" alt="Quasar Logo"><a>
 <a href="https://vuejs.org/"><img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" height="45" alt="Vue JS Logo"><a>
