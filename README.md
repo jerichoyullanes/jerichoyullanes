@@ -77,7 +77,7 @@
 ![Jericho's GitHub stats](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api?username=jerichoyullanes04&show_icons=true&theme=dark)
 
 ## My Most Used Programming Language
-[![Top Langs](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api/top-langs/?username=jerichoyullanes04&layout=compact)](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/)
+[![Top Langs](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/api/top-langs/?username=jerichoyullanes04)](https://github-readme-stats-jericho-yu-llanes-projects.vercel.app/)
 
 
 <!--- <a href="https://inertiajs.com/"><img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" height="47" alt="Inertia JS Logo"><a> --->
