@@ -1,6 +1,6 @@
 # <p align="center"> 👋 Hi, I’m Jericho Yu Llanes</p>
 <!--### <p align="center"> Aspiring Fullstack Developer from the Philippines Specialized in Website and Mobile Development.</p>--> 
-### <p align="center"> Fullstack Developer from the Philippines Specialized in Website and Mobile Development.</p>
+### <p align="center"> Aspiring Full Stack Developer from the Philippines Specialized in Website and Mobile Development.</p>
 <!-- - 🌱 I’m currently learning AI & ML -->
 - ⚙️ I can also develop embedded systems using Arduino Technology
 - 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
