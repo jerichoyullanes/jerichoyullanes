@@ -46,9 +46,9 @@
 ### Databases:
 <a href="https://www.mysql.com/"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" alt="MySQL Logo"><a>
 <a href="https://mariadb.org/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" height="50" alt="MariaDB Logo"><a>
-<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="50" alt="MongoDB Logo"><a>
+<!--<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="50" alt="MongoDB Logo"><a>
 <a href="https://firebase.google.com/docs/database"><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50" alt="Firebase Logo"><a>
-<!--<a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50" alt="PostgreSQL Logo"><a>-->
+<a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50" alt="PostgreSQL Logo"><a>-->
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
