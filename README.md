@@ -3,7 +3,7 @@
 ### <p align="center"> Aspiring Full Stack Developer from the Philippines Specialized in Website and Mobile Development.</p>
 --> 
 
-![Github Banner](https://github.com/user-attachments/assets/b44a8014-6314-4c0d-bd1c-3009fd695d5a)
+![Github Banner](https://github.com/user-attachments/assets/6778b5f7-4337-44e2-a6ce-59ed56cb97b4)
 
 <!-- - 🌱 I’m currently learning AI & ML 
 - ⚙️ I can also develop embedded systems using Arduino Technology-->
