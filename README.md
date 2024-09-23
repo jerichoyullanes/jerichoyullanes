@@ -32,13 +32,14 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)-->
 
 ### Libraries and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 <a href="https://vuejs.org/"><img src="https://github.com/jerichoyullanes04/jerichoyullanes04/assets/142454943/b8d8858e-67e6-49f4-b0ab-b39a6f94711f" height="48" alt="Vue JS Logo"><a>
 <a href="https://quasar.dev/"><img src="https://github.com/jerichoyullanes04/jerichoyullanes04/assets/142454943/04be2415-c37a-406e-93b2-16d3edc7a0e3" height="49" alt="Quasar Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-<!--[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+<!--
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 <a href="https://www.codeigniter.com/"><img src="https://github.com/jerichoyullanes04/jerichoyullanes04/assets/142454943/358eefc1-1e6c-4c1d-be51-d88c3d65f6cb" height="48" alt="Codeigniter Logo"><a>
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)-->
