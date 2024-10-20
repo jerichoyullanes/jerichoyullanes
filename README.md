@@ -7,8 +7,8 @@
 --> 
 <!-- - 🌱 I’m currently learning AI & ML 
 - ⚙️ I can also develop embedded systems using Arduino Technology-->
-<!--
-- 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
+
+<!--- 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
 
 ### How to reach me: 
 <a href="mailto: jericho.yu.llanes@gmail.com">
@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)-->
+
 <!--
 ### Libraries and Frameworks:
 <a href="https://vuejs.org/"><img src="https://github.com/jerichoyullanes04/jerichoyullanes04/assets/142454943/b8d8858e-67e6-49f4-b0ab-b39a6f94711f" height="48" alt="Vue JS Logo"><a>
