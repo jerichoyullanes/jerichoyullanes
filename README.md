@@ -6,9 +6,9 @@
 ![Github Banner](https://github.com/user-attachments/assets/6778b5f7-4337-44e2-a6ce-59ed56cb97b4)
  -->
 <!-- - 🌱 I’m currently learning AI & ML 
-- ⚙️ I can also develop embedded systems using Arduino Technology-->
-
+- ⚙️ I can also develop embedded systems using Arduino Technology
 👨‍💻 Checkout my projects at _**https://jerichoyullanes04.github.io/portfolio/**_
+-->
 
 ### How to reach me: 
 <a href="mailto: jericho.yu.llanes@gmail.com">
